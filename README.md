@@ -12,3 +12,7 @@ An interactive interface to create a bot which clicks at places recorded in adva
 Run `main (gui).py` to launch the interactive gui.
 
 or you can run `main (non-gui).py` in any python interpreter to use the non-gui vers
+
+# Gallery
+
+![GitHub Logo](https://i.imgur.com/gurF4RB.png)
